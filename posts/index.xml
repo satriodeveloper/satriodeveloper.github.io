@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on satrio.dev</title>
+    <link>https://satrio.dev/posts/</link>
+    <description>Recent content in Posts on satrio.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Nov 2022 20:55:40 +0700</lastBuildDate><atom:link href="https://satrio.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artikel Pertama Menggunakan Hugo!</title>
+      <link>https://satrio.dev/posts/artikel-pertama-menggunakan-hugo/</link>
+      <pubDate>Thu, 03 Nov 2022 20:55:40 +0700</pubDate>
+      
+      <guid>https://satrio.dev/posts/artikel-pertama-menggunakan-hugo/</guid>
+      <description>Ini adalah artikel pertama saya menggunakan Hugo! Sebelumnya saya menggunakan cms wordpress dan kemudian beralih menggunakan Ghost CMS, namun karena kesibukan saya akhirnya saya membutuhkan sebuah sistem yang tidak terlalu membebani saya untuk menyeting dari awal dan juga membutuhkan sebuah sistem yang tidak membebani server saya. Akhirnya saya memutuskan untuk menggunakan Hugo.
+Saya menggunakan hugo ini butuh banyak sekali adaptasi dimana sebelumnya saya menulis artikel diwebsite yang sudah saya setup di server namun kali ini saya harus menggunakan markdown dan juga harus menulisnya di local.</description>
+    </item>
+    
+  </channel>
+</rss>
