@@ -2,20 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://satrio.dev/posts/mempelajari-perintah-dasar-hugo/</loc>
-    <lastmod>2022-11-05T12:28:47+07:00</lastmod>
+    <loc>https://satrio.dev/categories/</loc>
+    <lastmod>2022-11-05T14:11:36+07:00</lastmod>
+  </url><url>
+    <loc>https://satrio.dev/tags/markdown/</loc>
+    <lastmod>2022-11-05T14:11:36+07:00</lastmod>
+  </url><url>
+    <loc>https://satrio.dev/categories/markdown/</loc>
+    <lastmod>2022-11-05T14:11:36+07:00</lastmod>
+  </url><url>
+    <loc>https://satrio.dev/posts/mempelajari-perintah-dasar-markdown/</loc>
+    <lastmod>2022-11-05T14:11:36+07:00</lastmod>
   </url><url>
     <loc>https://satrio.dev/posts/</loc>
-    <lastmod>2022-11-05T12:28:47+07:00</lastmod>
+    <lastmod>2022-11-05T14:11:36+07:00</lastmod>
   </url><url>
     <loc>https://satrio.dev/</loc>
+    <lastmod>2022-11-05T14:11:36+07:00</lastmod>
+  </url><url>
+    <loc>https://satrio.dev/tags/</loc>
+    <lastmod>2022-11-05T14:11:36+07:00</lastmod>
+  </url><url>
+    <loc>https://satrio.dev/posts/mempelajari-perintah-dasar-hugo/</loc>
     <lastmod>2022-11-05T12:28:47+07:00</lastmod>
   </url><url>
     <loc>https://satrio.dev/posts/artikel-pertama-menggunakan-hugo/</loc>
     <lastmod>2022-11-03T20:55:40+07:00</lastmod>
-  </url><url>
-    <loc>https://satrio.dev/categories/</loc>
-  </url><url>
-    <loc>https://satrio.dev/tags/</loc>
   </url>
 </urlset>

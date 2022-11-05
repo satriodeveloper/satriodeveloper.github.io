@@ -6,7 +6,17 @@
     <description>Recent content in Posts on satrio.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2022 12:28:47 +0700</lastBuildDate><atom:link href="https://satrio.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Nov 2022 14:11:36 +0700</lastBuildDate><atom:link href="https://satrio.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mempelajari Perintah Dasar Markdown</title>
+      <link>https://satrio.dev/posts/mempelajari-perintah-dasar-markdown/</link>
+      <pubDate>Sat, 05 Nov 2022 14:11:36 +0700</pubDate>
+      
+      <guid>https://satrio.dev/posts/mempelajari-perintah-dasar-markdown/</guid>
+      <description>Pada artikel ini, kita akan mempelajari perintah dasar markdown. Markdown adalah sebuah bahasa markup yang digunakan untuk menulis sebuah artikel. Markdown memiliki banyak sekali perintah yang dapat digunakan untuk menulis sebuah artikel. Pada artikel ini, kita akan mempelajari perintah dasar markdown.
+Pada beberapa CMS seperti WordPress, kita terbiasa menulis menggunakan text editor. Namun, pada markdown kita tidak perlu menggunakan text editor untuk menulis sebuah artikel. Kita dapat menulis sebuah artikel dengan menggunakan markdown.</description>
+    </item>
+    
     <item>
       <title>Mempelajari Perintah Dasar Hugo</title>
       <link>https://satrio.dev/posts/mempelajari-perintah-dasar-hugo/</link>
