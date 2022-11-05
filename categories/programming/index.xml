@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>programming on Satriyo U. Wicaksono</title>
+    <link>https://satrio.dev/categories/programming/</link>
+    <description>Recent content in programming on Satriyo U. Wicaksono</description>
+    <image>
+      <url>https://lh3.googleusercontent.com/a/ALm5wu03kN6nHsy37vGIsHNzkp7xXDURKnmNulwSjNuJ=s288-p-rw-no</url>
+      <link>https://lh3.googleusercontent.com/a/ALm5wu03kN6nHsy37vGIsHNzkp7xXDURKnmNulwSjNuJ=s288-p-rw-no</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <lastBuildDate>Sat, 05 Nov 2022 18:12:44 +0700</lastBuildDate><atom:link href="https://satrio.dev/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Belajar Bahasa Python Part 1</title>
+      <link>https://satrio.dev/posts/belajar-bahasa-python-part-1/</link>
+      <pubDate>Sat, 05 Nov 2022 18:12:44 +0700</pubDate>
+      
+      <guid>https://satrio.dev/posts/belajar-bahasa-python-part-1/</guid>
+      <description>Saat ini ditengah kesibukan bekerja sebagai software developer di salah satu instansi pemerintah, saya merasa ingin belajar bahasa pemrograman Python. Bukan karena iseng atau ingin mengisi waktu luang, tapi karena saya ingin mempelajari bahasa pemrograman yang berbeda dari yang saya gunakan sehari-hari.
+Bahasa pemrograman yang saya gunakan sehari-hari adalah PHP, dan saya ingin mempelajari bahasa pemrograman yang berbeda agar saya bisa lebih mengerti tentang pemrograman secara umum dan juga karena ada beberapa kekurangan dari PHP yang saya ingin bisa diatasi dengan menggunakan bahasa pemrograman lain.</description>
+    </item>
+    
+  </channel>
+</rss>
