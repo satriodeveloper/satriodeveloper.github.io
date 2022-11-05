@@ -6,7 +6,17 @@
     <description>Recent content on satrio.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Nov 2022 20:55:40 +0700</lastBuildDate><atom:link href="https://satrio.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Nov 2022 12:28:47 +0700</lastBuildDate><atom:link href="https://satrio.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mempelajari Perintah Dasar Hugo</title>
+      <link>https://satrio.dev/posts/mempelajari-perintah-dasar-hugo/</link>
+      <pubDate>Sat, 05 Nov 2022 12:28:47 +0700</pubDate>
+      
+      <guid>https://satrio.dev/posts/mempelajari-perintah-dasar-hugo/</guid>
+      <description>Pada artikel kali ini saya akan mempelajari perintah dasar Hugo. Perintah dasar Hugo ini akan membantu kita untuk membuat konten, mengelola konten, dan mengelola situs web Hugo. Berbeda dengan kebanyakan CMS, Hugo tidak memiliki antarmuka pengguna. Semua perintah Hugo dijalankan melalui terminal. Jadi, sebelum mempelajari perintah dasar Hugo, Anda harus menginstal Hugo terlebih dahulu.
+Instalasi Hugo </description>
+    </item>
+    
     <item>
       <title>Artikel Pertama Menggunakan Hugo!</title>
       <link>https://satrio.dev/posts/artikel-pertama-menggunakan-hugo/</link>
