@@ -14,7 +14,7 @@
       
       <guid>https://satrio.dev/posts/mempelajari-perintah-dasar-hugo/</guid>
       <description>Pada artikel kali ini saya akan mempelajari perintah dasar Hugo. Perintah dasar Hugo ini akan membantu kita untuk membuat konten, mengelola konten, dan mengelola situs web Hugo. Berbeda dengan kebanyakan CMS, Hugo tidak memiliki antarmuka pengguna. Semua perintah Hugo dijalankan melalui terminal. Jadi, sebelum mempelajari perintah dasar Hugo, Anda harus menginstal Hugo terlebih dahulu.
-Instalasi Hugo </description>
+Instalasi Hugo Pada artikel ini saya menggunakan sistem operasi Ubuntu 22.04. Jadi, untuk menginstal Hugo pada sistem operasi Ubuntu 22.</description>
     </item>
     
     <item>
